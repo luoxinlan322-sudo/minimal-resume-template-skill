@@ -1,0 +1,150 @@
+% !TeX TS-program = xelatex
+\documentclass{resume}
+\ResumeName{测试候选人}
+
+% Header
+\usepackage{graphicx}
+\usepackage{tikz}
+
+\begin{document}
+
+\begin{minipage}[c]{0.76\textwidth}
+  \raggedright
+  \setlength{\parindent}{0pt}
+  
+  \ResumeHeaderName{测试候选人}\par
+  \ResumeHeaderStackGap
+  \ResumeHeaderIntent{求职意向：AI产品经理 / AI应用产品经理}\par
+  \ResumeHeaderStackGap
+  \ResumeHeaderMeta{
+  13800000000 | test@example.com | github.com/example | 上海
+  }
+\end{minipage}%
+\hfill
+\begin{minipage}[c]{0.16\textwidth}
+  \centering
+  \begin{tikzpicture}
+    \clip (0,0) circle (1.12cm);
+    \node[inner sep=0pt] at (0,0)
+      {\includegraphics[width=2.55cm]{profile_placeholder.png}};
+\end{tikzpicture}
+\end{minipage}
+
+\ResumeHeaderBodyGap
+
+\small
+\section{教育经历}
+
+\ResumeEduItem[示例大学]
+  {示例大学}
+  [计算机科学与技术 学术型硕士]
+  [2024.09 -- 2027.03]
+
+\begin{ResumeCompactList}
+  \item GPA：3.9/4.0（排名 3/52），主攻多模态理解、数据分析、智能交互与复杂任务场景下的人机协同设计。
+  \item 参与科研训练、学术写作与跨学科项目协作，具备研究设计、结构化表达、问题拆解、资料梳理与长期迭代能力。
+\end{ResumeCompactList}
+
+\ResumeEduItem[示例大学]
+  {示例大学}
+  [软件工程 工学学士]
+  [2020.09 -- 2024.06]
+
+\begin{ResumeCompactList}
+  \item GPA：3.8/4.0（排名 8/96），获校级奖学金、竞赛奖项与优秀学生干部荣誉，具备较好的工程实践与团队协作基础。
+  \item 参与多项课程设计和综合项目实践，形成较强的产品意识、工程协作习惯、复盘能力与持续迭代方法论。
+\end{ResumeCompactList}
+\section{工作经历}
+
+\ResumeItem[某头部互联网公司]
+  {\ResumeUrl{https://example.com/experience-a}{某头部互联网公司}}
+  [AI产品实习生]
+  [2025.06 -- 2025.09]
+
+\begin{ResumeCompactList}
+  \item 参与智能助手方向产品调研与方案设计，围绕用户高频任务梳理核心流程、关键节点与体验风险，并输出结构化需求文档、原型说明和阶段性评审材料。
+  \item 协同研发、算法、设计与运营同学推进方案落地，跟踪版本迭代效果、整理用户反馈并沉淀产品优化清单，同时补充竞品分析、路径拆解与优先级判断依据。
+  \item 基于埋点数据、访谈记录和客服反馈复盘重点路径的流失原因，提出入口位置、交互反馈、信息组织和提醒时机的迭代建议，并推动关键页面完成多轮体验修正。
+    \begin{itemize}
+      \item 对部分高频场景进一步补充任务链路拆解、异常流梳理和成功标准定义，帮助团队统一需求边界、协作方式与版本验收口径。
+    \end{itemize}
+\end{ResumeCompactList}
+
+\ResumeItem[某国企研究院]
+  {某国企研究院}
+  [规划设计实习生]
+  [2023.07 -- 2023.09]
+
+\begin{ResumeCompactList}
+  \item 参与多源数据采集、清洗与结构化整理，协助识别问题、归纳结论并输出图纸及汇报材料，支持项目阶段性汇报与成果交付。
+  \item 参与现场踏勘与访谈调研，整理用地和设施信息，支持方案修订、评审沟通与成果汇报，并在有限周期内协调资料归集与版本更新节奏。
+  \item 结合项目背景、资料现状和时间要求，统筹多类信息的整理节奏，提升内部协作效率、输出完整度与评审沟通的清晰度。
+\end{ResumeCompactList}
+
+\ResumeItem[某科技创业公司]
+  {某科技创业公司}
+  [产品运营实习生]
+  [2022.12 -- 2023.03]
+
+\begin{ResumeCompactList}
+  \item 参与内容增长和用户反馈整理，围绕新增功能上线过程跟进测试、用户反馈回收与问题优先级梳理，并整理重点问题的复盘记录与处理建议。
+  \item 协助维护内部知识库与项目协作文档，提升跨团队沟通效率并沉淀可复用流程模板，同时支持活动页物料、FAQ 与运营口径的快速更新。
+  \item 基于数据看板分析重点指标波动，支持活动复盘、问题定位与后续迭代建议输出，并形成阶段性结论供团队快速决策。
+\end{ResumeCompactList}
+\section{项目经历}
+
+\ResumeItem[多模态AI助手项目]
+  {\ResumeUrl{https://github.com/example/project-a}{多模态AI助手项目}}
+  [项目负责人]
+  [2025.03 -- 2025.06]
+
+\begin{itemize}
+  \item 围绕复杂任务场景设计多模态 AI 交互流程，统筹文本、视觉与语音输入方式的衔接逻辑，并优化结果展示、反馈节奏、状态提示与关键按钮层级。
+  \item 基于 LLM、RAG 与工作流编排设计能力链路，将问题理解、知识检索、结果生成与人工确认组织为结构化闭环，并补充失败兜底和引用展示策略。
+  \item 结合小范围测试反馈持续打磨交互细节、异常兜底与结果可解释性，提升任务完成效率与整体使用体验，同时复盘误触发、误理解与信息过载等关键问题。
+    \begin{itemize}
+      \item 对结果页的信息密度、按钮层级、提醒文案、下一步引导方式和空状态反馈做了多轮微调，以减少理解成本、误操作概率和重复确认次数。
+    \end{itemize}
+  \item 输出原型、需求说明、评测记录与版本复盘文档，推动从概念方案走向可演示、可复盘、可继续迭代的产品原型。
+\end{itemize}
+
+\ResumeItem[AI效率工具项目]
+  {\ResumeUrl{https://github.com/example/project-b}{AI效率工具项目}}
+  [核心成员]
+  [2024.10 -- 2025.01]
+
+\begin{itemize}
+  \item 针对团队资料检索和经验复用效率较低的问题，设计基于知识库检索与问答能力的内部效率工具，覆盖资料查找、知识沉淀与标准口径复用等典型场景。
+  \item 结合 Prompt、检索策略与结构化知识组织方式优化回答质量，并设计常见问题模板、角色提示、场景化入口和答案引用格式，提升信息获取效率。
+  \item 围绕使用过程中的结果偏差、引用不清晰、回答冗长和关键信息缺失问题进行迭代，提升结果可信度、使用稳定性与反馈闭环效率。
+  \item 沉淀搭建流程、使用规范、维护手册和反馈记录，形成可持续维护的产品化方案，并降低新成员接入与理解成本。
+\end{itemize}
+\section{校园经历}
+
+\ResumeItem[校学生会]
+  {校学生会}
+  [部门负责人]
+  [2021.09 -- 2022.06]
+
+\begin{ResumeCompactList}
+  \item 负责活动策划、任务分工与执行推进，协调多方资源完成宣传、落地与复盘，并跟踪各阶段节点的风险与执行状态。
+  \item 建立协作清单与过程跟踪机制，提升组织效率和信息同步质量，同时优化活动准备阶段的分工清晰度与现场协作节奏。
+\end{ResumeCompactList}
+
+\ResumeItem[创新创业项目]
+  {创新创业项目}
+  [核心成员]
+  [2022.03 -- 2023.01]
+
+\begin{ResumeCompactList}
+  \item 参与选题调研、原型设计与路演材料整理，支持团队完成阶段性展示与答辩，并补充关键数据、案例与评委关注问题的响应逻辑。
+  \item 结合用户反馈和评审建议调整方案重点，完善产品表达、价值主张、展示结构与问题阐述逻辑。
+\end{ResumeCompactList}
+\section{技能}
+
+\begin{itemize}
+  \item 产品能力：需求分析、竞品研究、用户流程设计、交互原型、项目推进、问题拆解与跨团队协作
+  \item AI应用：LLM、RAG、Prompt Engineering、Workflow、Agent基础理解与应用、多模态交互场景设计
+  \item 工具与表达：Figma、Python、SQL、PPT、英文资料阅读、结构化写作与方案汇报
+\end{itemize}
+\end{document}

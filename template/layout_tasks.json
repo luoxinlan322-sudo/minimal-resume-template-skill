@@ -1,0 +1,169 @@
+[
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "工作经历",
+    "bullet_index": 4,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 65,
+    "original_text": "参与智能助手方向产品调研与方案设计，围绕用户高频任务梳理核心流程、关键节点与体验风险，并输出结构化需求文档、原型说明和阶段性评审材料。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "参与智能助手方向产品调研与方案设计，围绕用户高频任务梳理核心流程、关键节点与体验风险，并输出结构化需求文档、原型说明和阶 段性评审材料。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "工作经历",
+    "bullet_index": 5,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 66,
+    "original_text": "协同研发、算法、设计与运营同学推进方案落地，跟踪版本迭代效果、整理用户反馈并沉淀产品优化清单，同时补充竞品分析、路径拆解与优先级判断依据。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "协同研发、算法、设计与运营同学推进方案落地，跟踪版本迭代效果、整理用户反馈并沉淀产品优化清单，同时补充竞品分析、路径拆解与 优先级判断依据。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "工作经历",
+    "bullet_index": 6,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 67,
+    "original_text": "基于埋点数据、访谈记录和客服反馈复盘重点路径的流失原因，提出入口位置、交互反馈、信息组织和提醒时机的迭代建议，并推动关键页面完成多轮体验修正。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "基于埋点数据、 访谈记录和客服反馈复盘重点路径的流失原因，提出入口位置、交互反馈、信息组织和提醒时机的迭代建议，并推动关键页 面完成多轮体验修正。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "工作经历",
+    "bullet_index": 11,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 90,
+    "original_text": "参与内容增长和用户反馈整理，围绕新增功能上线过程跟进测试、用户反馈回收与问题优先级梳理，并整理重点问题的复盘记录与处理建议。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "参与内容增长和用户反馈整理，围绕新增功能上线过程跟进测试、用户反馈回收与问题优先级梳理，并整理重点问题的复盘记录与处理建 议。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 14,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 102,
+    "original_text": "围绕复杂任务场景设计多模态 AI 交互流程，统筹文本、视觉与语音输入方式的衔接逻辑，并优化结果展示、反馈节奏、状态提示与关键按钮层级。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "围绕复杂任务场景设计多模态AI交互流程，统筹文本、视觉与语音输入方式的衔接逻辑，并优化结果展示、反馈节奏、状态提示与关键按 钮层级。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 15,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 103,
+    "original_text": "基于 LLM、RAG 与工作流编排设计能力链路，将问题理解、知识检索、结果生成与人工确认组织为结构化闭环，并补充失败兜底和引用展示策略。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "基于LLM、RAG与工作流编排设计能力链路，将问题理解、知识检索、结果生成与人工确认组织为结构化闭环，并补充失败兜底和引用展 示策略。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 16,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 104,
+    "original_text": "结合小范围测试反馈持续打磨交互细节、异常兜底与结果可解释性，提升任务完成效率与整体使用体验，同时复盘误触发、误理解与信息过载等关键问题。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "结合小范围测试反馈持续打磨交互细节、异常兜底与结果可解释性，提升任务完成效率与整体使用体验，同时复盘误触发、误理解与信息 过载等关键问题。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 17,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 106,
+    "original_text": "对结果页的信息密度、按钮层级、提醒文案、下一步引导方式和空状态反馈做了多轮微调，以减少理解成本、误操作概率和重复确认次数。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "对结果页的信息密度、按钮层级、提醒文案、下一步引导方式和空状态反馈做了多轮微调，以减少理解成本、误操作概率和重复确认 次数。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 19,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 117,
+    "original_text": "针对团队资料检索和经验复用效率较低的问题，设计基于知识库检索与问答能力的内部效率工具，覆盖资料查找、知识沉淀与标准口径复用等典型场景。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "针对团队资料检索和经验复用效率较低的问题，设计基于知识库检索与问答能力的内部效率工具，覆盖资料查找、知识沉淀与标准口径复 用等典型场景。"
+  },
+  {
+    "type": "rewrite_bullet",
+    "priority": 100,
+    "section": "项目经历",
+    "bullet_index": 20,
+    "page": 1,
+    "warnings": [
+      "short_tail"
+    ],
+    "target_trim_chars": 6,
+    "latex_line_index": 118,
+    "original_text": "结合 Prompt、检索策略与结构化知识组织方式优化回答质量，并设计常见问题模板、角色提示、场景化入口和答案引用格式，提升信息获取效率。",
+    "rewrite_hint": "这条是短尾行，优先删除语气词、重复修饰语或冗余连接词，目标压缩约 6 个字，不改核心信息。",
+    "instruction": "仅改写这一条 bullet，尽量压缩约 6 个字，保留事实与语义重心，不要改动其他 bullet。",
+    "preview": "结合Prompt、检索策略与结构化知识组织方式优化回答质量，并设计常见问题模板、角色提示、场景化入口和答案引用格式，提升信息获 取效率。"
+  },
+  {
+    "type": "review_spacing",
+    "priority": 30,
+    "page": 2,
+    "status": "sparse_page",
+    "instruction": "页面偏空，可在文案稳定后考虑适度放松 section 或 list 间距；优先不动全局字号。"
+  }
+]

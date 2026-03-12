@@ -1,0 +1,15 @@
+# Local build outputs
+*.aux
+*.log
+*.out
+*.pdf
+
+# Unused local asset
+NotoSansSC-Medium.ttf
+
+# Editor/system files
+.DS_Store
+Thumbs.db
+
+# Local test cases
+layout_test_case/

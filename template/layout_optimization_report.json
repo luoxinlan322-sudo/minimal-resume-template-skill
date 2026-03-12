@@ -1,0 +1,25 @@
+{
+  "passes": [
+    {
+      "pass": 1,
+      "changes": [],
+      "summary": {
+        "target_pages": 1,
+        "actual_pages": 1,
+        "overflow": false,
+        "flagged_bullets": 1,
+        "flagged_short_tail": 1,
+        "flagged_long_bullet": 0
+      }
+    }
+  ],
+  "final_summary": {
+    "target_pages": 1,
+    "actual_pages": 1,
+    "overflow": false,
+    "flagged_bullets": 1,
+    "flagged_short_tail": 1,
+    "flagged_long_bullet": 0
+  },
+  "final_diagnosis": "C:\\000Data\\Projects\\resume_workspace\\resume_cn_public_template\\template\\layout_diagnosis.json"
+}
