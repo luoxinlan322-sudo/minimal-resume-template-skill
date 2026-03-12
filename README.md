@@ -1,5 +1,10 @@
 # 一款极简风格高信息密度中文求职简历模板
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![XeLaTeX](https://img.shields.io/badge/LaTeX-XeLaTeX-008080)
+![Codex Skill](https://img.shields.io/badge/Codex-Skills-blue)
+[![Last Commit](https://img.shields.io/github/last-commit/luoxinlan322-sudo/minimal-resume-template-skill)](https://github.com/luoxinlan322-sudo/minimal-resume-template-skill/commits/main)
+
 适用于中文单页求职简历，偏极简风格与高信息密度，包含教育、工作/实习、项目、校园经历、技能等常用模块。
 
 ## 预览
