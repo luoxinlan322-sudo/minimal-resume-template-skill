@@ -3,6 +3,8 @@
 *.log
 *.out
 *.pdf
+*.pyc
+__pycache__/
 
 # Unused local asset
 NotoSansSC-Medium.ttf
@@ -13,3 +15,8 @@ Thumbs.db
 
 # Local test cases
 layout_test_case/
+
+# Layout diagnosis artifacts
+template/layout_diagnosis.json
+template/layout_tasks.json
+template/layout_optimization_report.json
